@@ -14,9 +14,9 @@ This repository contains two sets of Python scripts for fetching stock data, vis
 
 The project includes two main sets of functionality:
 
-1. **Stock Data Fetching and Matplotlib Visualization:** The script `fetch_stock_data.py` fetches stock data using the Yahoo Finance API (`yfinance` library) and visualizes it using Matplotlib. The fetched data is saved to a CSV file named after the stock ticker. The stock performance graph displays the closing price over time.
+1. **Stock Data Fetching and Matplotlib Visualization:** The script `main.py` fetches stock data using the Yahoo Finance API (`yfinance` library) and visualizes it using Matplotlib. The fetched data is saved to a CSV file named after the stock ticker. The stock performance graph displays the closing price over time.
 
-2. **Interactive Stock Performance Web App with Streamlit:** The script `streamlit_stock_app.py` creates a Streamlit web app for interactive stock performance visualization. The app fetches stock data for various stock tickers, and users can select different companies to view their stock performance graphs.
+2. **Interactive Stock Performance Web App with Streamlit:** The script `stmain.py` creates a Streamlit web app for interactive stock performance visualization. The app fetches stock data for various stock tickers, and users can select different companies to view their stock performance graphs.
 
 ## Getting Started
 
