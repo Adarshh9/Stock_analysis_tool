@@ -23,7 +23,7 @@ The project includes two main sets of functionality:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/StockVisualization.git
+   git clone [https://github.com/YourUsername/StockVisualization.git](https://github.com/Adarshh9/Stock_analysis_tool.git)
    ```
 
 2. Install the required Python libraries:
